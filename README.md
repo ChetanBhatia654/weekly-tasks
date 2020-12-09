@@ -1,4 +1,5 @@
 # weekly-tasks
+A simple tasks app grouped by week and distinguished by primary or secondary tasks
 
 ## Project setup
 ```
